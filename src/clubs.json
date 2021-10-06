@@ -1,0 +1,392 @@
+[
+    {
+      "label": "Burnley FC",
+      "code": "BUR",
+      "country": "England"
+    },
+    {
+      "label": "Manchester United FC",
+      "code": "MUN",
+      "country": "England"
+    },
+    {
+      "label": "Manchester City FC",
+      "code": "MCI",
+      "country": "England"
+    },
+    {
+      "label": "Aston Villa FC",
+      "code": "AVL",
+      "country": "England"
+    },
+    {
+      "label": "Fulham FC",
+      "code": "FUL",
+      "country": "England"
+    },
+    {
+      "label": "Arsenal FC",
+      "code": "ARS",
+      "country": "England"
+    },
+    {
+      "label": "Crystal Palace FC",
+      "code": "CRY",
+      "country": "England"
+    },
+    {
+      "label": "Southampton FC",
+      "code": "SOU",
+      "country": "England"
+    },
+    {
+      "label": "Liverpool FC",
+      "code": "LIV",
+      "country": "England"
+    },
+    {
+      "label": "Leeds United FC",
+      "code": "LEE",
+      "country": "England"
+    },
+    {
+      "label": "West Ham United FC",
+      "code": "WHU",
+      "country": "England"
+    },
+    {
+      "label": "Newcastle United FC",
+      "code": "NEW",
+      "country": "England"
+    },
+    {
+      "label": "West Bromwich Albion FC",
+      "code": "WBA",
+      "country": "England"
+    },
+    {
+      "label": "Leicester City FC",
+      "code": "LEI",
+      "country": "England"
+    },
+    {
+      "label": "Tottenham Hotspur FC",
+      "code": "TOT",
+      "country": "England"
+    },
+    {
+      "label": "Everton FC",
+      "code": "EVE",
+      "country": "England"
+    },
+    {
+      "label": "Sheffield United FC",
+      "code": "SHU",
+      "country": "England"
+    },
+    {
+      "label": "Wolverhampton Wanderers FC",
+      "code": "WOL",
+      "country": "England"
+    },
+    {
+      "label": "Brighton & Hove Albion FC",
+      "code": "BHA",
+      "country": "England"
+    },
+    {
+      "label": "Chelsea FC",
+      "code": "CHE",
+      "country": "England"
+    },
+    {
+        "label": "SD Eibar",
+        "code": null,
+        "country": "Spain"
+      },
+      {
+        "label": "RC Celta Vigo",
+        "code": "CEL",
+        "country": "Spain"
+      },
+      {
+        "label": "Granada CF",
+        "code": "GRA",
+        "country": "Spain"
+      },
+      {
+        "label": "Athletic Club Bilbao",
+        "code": "ATH",
+        "country": "Spain"
+      },
+      {
+        "label": "Cádiz CF",
+        "code": null,
+        "country": "Spain"
+      },
+      {
+        "label": "CA Osasuna",
+        "code": "OSA",
+        "country": "Spain"
+      },
+      {
+        "label": "FC Barcelona",
+        "code": "BAR",
+        "country": "Spain"
+      },
+      {
+        "label": "Elche CF",
+        "code": "ELC",
+        "country": "Spain"
+      },
+      {
+        "label": "Real Madrid",
+        "code": "RMD",
+        "country": "Spain"
+      },
+      {
+        "label": "Getafe CF",
+        "code": "GET",
+        "country": "Spain"
+      },
+      {
+        "label": "Deportivo Alavés",
+        "code": null,
+        "country": "Spain"
+      },
+      {
+        "label": "Real Betis",
+        "code": "BET",
+        "country": "Spain"
+      },
+      {
+        "label": "Real Valladolid CF",
+        "code": "VID",
+        "country": "Spain"
+      },
+      {
+        "label": "Real Sociedad",
+        "code": "RSO",
+        "country": "Spain"
+      },
+      {
+        "label": "Villarreal CF",
+        "code": "VLL",
+        "country": "Spain"
+      },
+      {
+        "label": "SD Huesca",
+        "code": null,
+        "country": "Spain"
+      },
+      {
+        "label": "Valencia CF",
+        "code": "VAL",
+        "country": "Spain"
+      },
+      {
+        "label": "Levante UD",
+        "code": "LEV",
+        "country": "Spain"
+      },
+      {
+        "label": "Atlético Madrid",
+        "code": "ATL",
+        "country": "Spain"
+      },
+      {
+        "label": "Sevilla FC",
+        "code": "SEV",
+        "country": "Spain"
+      },
+      {
+        "label": "Bayern München",
+        "code": "FCB",
+        "country": "Germany"
+      },
+      {
+        "label": "FC Schalke 04",
+        "code": "S04",
+        "country": "Germany"
+      },
+      {
+        "label": "Eintracht Frankfurt",
+        "code": "FFM",
+        "country": "Germany"
+      },
+      {
+        "label": "Arminia Bielefeld",
+        "code": "DSC",
+        "country": "Germany"
+      },
+      {
+        "label": "1. FC Union Berlin",
+        "code": "FCU",
+        "country": "Germany"
+      },
+      {
+        "label": "FC Augsburg",
+        "code": "FCA",
+        "country": "Germany"
+      },
+      {
+        "label": "1. FC Köln",
+        "code": "KOE",
+        "country": "Germany"
+      },
+      {
+        "label": "TSG 1899 Hoffenheim",
+        "code": "HOF",
+        "country": "Germany"
+      },
+      {
+        "label": "Werder Bremen",
+        "code": "BRE",
+        "country": "Germany"
+      },
+      {
+        "label": "Hertha BSC",
+        "code": "BSC",
+        "country": "Germany"
+      },
+      {
+        "label": "VfB Stuttgart",
+        "code": "VFB",
+        "country": "Germany"
+      },
+      {
+        "label": "SC Freiburg",
+        "code": "SCF",
+        "country": "Germany"
+      },
+      {
+        "label": "Borussia Dortmund",
+        "code": "BVB",
+        "country": "Germany"
+      },
+      {
+        "label": "Bor. Mönchengladbach",
+        "code": "BMG",
+        "country": "Germany"
+      },
+      {
+        "label": "RB Leipzig",
+        "code": "RBL",
+        "country": "Germany"
+      },
+      {
+        "label": "1. FSV Mainz 05",
+        "code": "M05",
+        "country": "Germany"
+      },
+      {
+        "label": "VfL Wolfsburg",
+        "code": "WOB",
+        "country": "Germany"
+      },
+      {
+        "label": "Bayer 04 Leverkusen",
+        "code": "B04",
+        "country": "Germany"
+      },
+      {
+        "label": "Girondins de Bordeaux",
+        "code": "FCGB",
+        "country": "France"
+      },
+      {
+        "label": "FC Nantes",
+        "code": "FCN",
+        "country": "France"
+      },
+      {
+        "label": "Dijon FCO",
+        "code": "DFCO",
+        "country": "France"
+      },
+      {
+        "label": "Angers SCO",
+        "code": "SCO",
+        "country": "France"
+      },
+      {
+        "label": "Lille OSC",
+        "code": "LOSC",
+        "country": "France"
+      },
+      {
+        "label": "Stade Rennais FC",
+        "code": "SRFC",
+        "country": "France"
+      },
+      {
+        "label": "AS Monaco",
+        "code": "ASM",
+        "country": "Monaco"
+      },
+      {
+        "label": "Stade de Reims",
+        "code": "SDR",
+        "country": "France"
+      },
+      {
+        "label": "FC Lorient",
+        "code": "FCL",
+        "country": "France"
+      },
+      {
+        "label": "RC Strasbourg",
+        "code": null,
+        "country": "France"
+      },
+      {
+        "label": "Nîmes Olympique",
+        "code": "NIMES",
+        "country": "France"
+      },
+      {
+        "label": "Stade Brestois 29",
+        "code": "SB29",
+        "country": "France"
+      },
+      {
+        "label": "OGC Nice",
+        "code": "OGCN",
+        "country": "France"
+      },
+      {
+        "label": "RC Lens",
+        "code": "RCL",
+        "country": "France"
+      },
+      {
+        "label": "Olympique Lyonnais",
+        "code": "OL",
+        "country": "France"
+      },
+      {
+        "label": "Montpellier HSC",
+        "code": "MHSC",
+        "country": "France"
+      },
+      {
+        "label": "FC Metz",
+        "code": "FCM",
+        "country": "France"
+      },
+      {
+        "label": "AS Saint-Étienne",
+        "code": "ASSE",
+        "country": "France"
+      },
+      {
+        "label": "Olympique de Marseille",
+        "code": "OM",
+        "country": "France"
+      },
+      {
+        "label": "Paris Saint-Germain",
+        "code": "PSG",
+        "country": "France"
+      }
+  ]

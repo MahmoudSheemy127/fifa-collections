@@ -1,0 +1,329 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: url('./assets/BackGroundImage.png');
+    color: white;
+    
+}
+
+
+.container{
+    width: 20%;
+    height: 50%;
+    margin-left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.formInterface{
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Form{
+    display: flex;
+    /* background: #638CF4; */
+    flex-direction: column;
+    height: 90%;
+    margin-bottom: 5%;
+}
+
+.sections{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.Section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.inputSection{
+    /* margin-bottom:10%; */
+    background-color:oldlace;
+}
+
+/* .Section *{
+    margin:10%;    
+} */
+
+
+.cardList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+.list{
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    color: #638CF4;
+    background: rgba(39, 3, 97, 0.94);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.Grid{
+    display: grid;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 5%; */
+    /* grid-gap: 20%; */
+    grid-template-columns: repeat(3,1fr);
+    /* border: 1px solid #ccc; */
+}
+
+.description{
+    width:90%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(229, 229, 229, 0.26);
+    border-radius: 40px;
+    text-align: center;
+    opacity: 0.6;
+    margin-bottom: 5%;
+}
+
+.description img{
+    width: 50px;
+    height: 50px;
+}
+
+#githubicon{
+    margin-top:0;
+    width: 200px;
+    height: 200px;
+}
+
+.HomePage{
+    width: 100%;
+    height: 2117px;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    /* justify-content: center; */
+    align-items: center;
+}
+.HomePage h2{
+    font-size: 2.4em;
+}
+
+.Images{
+    /* border: 1px solid #ccc; */
+    display: grid;
+    width: 900px;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5%;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.CardHome{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 57px;
+    width: 100%;    
+    height: 350px;
+}
+.CardHome img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    /* border: 1px solid #ccc; */
+}
+#one{
+    background: rgba(253, 255, 136, 0.81);
+}
+#two{
+    background: #86B7FF;
+}
+#three{
+    background: rgba(27, 235, 135, 0.38);
+}
+#three img {
+    height: 90%;
+}
+
+.Buttons {
+    /* border: 1px solid #ccc; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Buttons *{
+    margin-right: 10%;    
+    text-align: center;
+    min-width: 200px;
+    height: 60px;
+    cursor: pointer;
+    font-size: 18px;
+
+}
+
+
+.Buttons button:hover{
+    background-color: white;
+}
+
+.newCard{
+    background: url('./assets/fifacard.png');
+    background-size: contain;
+    /* border: 1px solid #ccc; */
+    width: 295px;
+    height: 469px;
+    color: black;
+    margin-bottom: 10%;
+ 
+}
+.Summarypart{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 53%;
+    /* border: 1px solid #ccc; */
+}
+.overviewData{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    width: 50%;
+    align-items: center ;
+    /* border: 1px solid #ccc; */
+}
+.Image{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.overviewData *{
+    margin: 0;
+    /* margin-top: 10%; */
+    /* border: 1px solid #ccc; */
+    /* margin-bottom: 5%; */
+}
+#cutout{
+    /* border: 1px solid #ccc; */
+    height: 180px;
+    width: 180px;
+    object-fit: contain;
+}
+.overviewData h2{
+    font-size: 28px;
+}
+#flag{
+    width: 59px;
+    height: 50px;
+}
+#club{
+    width: 49px;
+    height: 49px;
+}
+
+#rating{
+    /* margin-top: 50%; */
+    font-size: 60px;
+    margin-bottom: 0;
+    /* border: 1px solid red; */
+}
+.playerName{
+    /* border: 1px solid #ccc; */
+    width: 100%;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.playerName h2 {
+    font-size: 36px;
+}
+.ratings{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    /* border: 1px solid #ccc; */
+    width:100%;
+    height: 100px;
+}
+.ratings *{
+    margin: 0;
+    /* margin-bottom: 1px; */
+    font-size: 1.2em;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+@media only screen and (max-width: 800px)
+{
+    .Images{
+        grid-template-columns: repeat(2,1fr);
+        justify-content: center;
+        align-items: center;
+        width: 400px;
+    }
+    .Buttons{
+        display: flex;
+        flex-direction: column;
+    }
+    .Buttons *{        
+        margin-bottom: 5%;
+    }
+    .Grid{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media only screen and (max-width: 500px)
+{
+    .Images{
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 0%;
+        margin-bottom: 5%;
+        /* border: 1px solid #ccc; */
+    }
+    .wrapper{
+        /* border:1px solid #ccc; */
+    }
+    .Grid{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
